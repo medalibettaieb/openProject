@@ -11,8 +11,9 @@ public class Plate {
 	}
 
 	public String cook() {
-		String kosksi = null;
-		return kosksi;
+		
+		String _3sida = null;
+		return _3sida;
 	}
 
 }
