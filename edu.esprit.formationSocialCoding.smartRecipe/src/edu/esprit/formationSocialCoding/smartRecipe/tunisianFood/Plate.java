@@ -13,8 +13,8 @@ public class Plate {
 
 	public String cook() {
 		
-		String _3sida = null;
-		return _3sida;
+		String _3sidati = null;
+		return _3sidati;
 	}
 
 }
