@@ -12,8 +12,8 @@ public class Plate {
 	}
 
 	public String cook() {
-		String slata = "";
-		return slata;
+		String kosksi = null;
+		return kosksi;
 	}
 
 }
