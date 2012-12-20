@@ -10,8 +10,7 @@ public class Plate {
 		System.out.println("version 2");
 	}
 
-	public String cook() {
-		
+	public String cook() {		
 		String _3sida = null;
 		return _3sida;
 	}
