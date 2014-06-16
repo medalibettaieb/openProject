@@ -6,9 +6,8 @@ public class Plate {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		Plate plate = new Plate();
-		plate.cook();
-
+		System.out.println("version 1");
+		System.out.println("version 2");
 	}
 
 	public String cook() {
